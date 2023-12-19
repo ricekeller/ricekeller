@@ -18,6 +18,10 @@
 
 ### Hi there 👋
 
+---
+
+### :woman_technologist: About Me :
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
